@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#50a882c1"
+    android:gravity="center"
+    tools:context="com.example.administrator.captchademo.MainActivity">
+
+    <android.support.v7.widget.CardView
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardBackgroundColor="#89c406"
+        app:cardCornerRadius="10dp">
+
+        <com.luozm.captcha.Captcha
+            android:layout_margin="10dp"
+            android:id="@+id/captCha"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:progressDrawable="@drawable/po_seekbar"
+            app:thumbDrawable="@drawable/thumb"
+            app:src="@drawable/big_foot_big_head2"/>
+    </android.support.v7.widget.CardView>
+</LinearLayout>
