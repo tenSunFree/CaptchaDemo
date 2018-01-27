@@ -11,7 +11,7 @@ https://github.com/luozhanming/Captcha
                               
 預覽
 --------
-![image](https://i.imgur.com/pwx5Bh4.png)                                      
+![image](https://i.imgur.com/uWzBpd4.png)                                      
 
-![image](https://i.imgur.com/yTmg5h1.png)
+![image](https://i.imgur.com/gY706N5.png)
 
